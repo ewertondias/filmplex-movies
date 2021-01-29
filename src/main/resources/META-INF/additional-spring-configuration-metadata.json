@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "themoviedb.api-key",
+      "type": "java.lang.String",
+      "description": "The Movie Database API - Api Key."
+    },
+    {
+      "name": "themoviedb.url.protocol",
+      "type": "java.lang.String",
+      "description": "The Movie Database API - URI Protocol."
+    },
+    {
+      "name": "themoviedb.url.host",
+      "type": "java.lang.String",
+      "description": "The Movie Database API - URI Host."
+    },
+    {
+      "name": "themoviedb.url.version",
+      "type": "java.lang.String",
+      "description": "The Movie Database API - URI Version."
+    },
+    {
+      "name": "themoviedb.url.path",
+      "type": "java.lang.String",
+      "description": "The Movie Database API - URI Path."
+    }
+  ]
+}

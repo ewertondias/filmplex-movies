@@ -1,0 +1,8 @@
+themoviedb:
+  api-key: 6277950f4ef713b00cdeee2a8c8c5f91
+  url:
+    protocol: https
+    host: api.themoviedb.org
+    version: 3
+    path: movie/popular
+    language: pt-BR
